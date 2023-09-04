@@ -1,4 +1,4 @@
-#inter, lig and prot tsv files.
+## inter, lig and prot tsv files.
 it contains the information regarding drug and target and their interaction pIC50 values
 
 ## splits_db.tsv
